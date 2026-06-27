@@ -147,4 +147,4 @@ def run_production_pipeline(input_json, output_csv):
 
 if __name__ == "__main__":
     # Change 'team_xxx.csv' to match your registered hackathon participant ID
-    run_production_pipeline("data/candidates.jsonl", "output/Gnanajoshna.csv")
+    run_production_pipeline("data/candidates.jsonl", "output/Gnanajoshna.xlsx")
